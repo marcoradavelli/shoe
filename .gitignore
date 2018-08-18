@@ -8,3 +8,21 @@ PCL/Makefile
 PCL/pcd_read
 
 PCL/cmake_install\.cmake
+
+PCL/correspondence_grouping/CMakeFiles/
+
+*.cmake
+
+PCL/correspondence_grouping/CMakeCache\.txt
+
+PCL/correspondence_grouping/correspondence_grouping
+
+PCL/correspondence_grouping/Makefile
+
+PCL/normalization/CMakeFiles/
+
+PCL/normalization/CMakeCache\.txt
+
+PCL/normalization/Makefile
+
+PCL/normalization/pcd_read
