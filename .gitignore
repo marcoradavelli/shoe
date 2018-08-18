@@ -26,3 +26,19 @@ PCL/normalization/CMakeCache\.txt
 PCL/normalization/Makefile
 
 PCL/normalization/pcd_read
+
+PCL/cloud_viewer/CMakeFiles/
+
+PCL/cloud_viewer/cloud_viewer
+
+PCL/cloud_viewer/CMakeCache\.txt
+
+PCL/cloud_viewer/Makefile
+
+PCL/pcl_visualizer/CMakeFiles/
+
+PCL/pcl_visualizer/CMakeCache\.txt
+
+PCL/pcl_visualizer/Makefile
+
+PCL/pcl_visualizer/pcl_visualizer_demo
