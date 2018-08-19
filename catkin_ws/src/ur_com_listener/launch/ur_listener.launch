@@ -1,0 +1,15 @@
+<launch>
+
+	<arg name="robot_ip_adress" default="10.0.0.2"/>
+	<arg name="realtime_controller" default="true" />
+	
+
+
+	<param name="robot_ip_adress" value="$(arg robot_ip_adress)"/>
+	<param name="realtime_controller" value="$(arg realtime_controller)"/>
+
+
+		<node name="ur_listener" pkg="ur_command_listener" type="ur_listener.py" output="screen">
+		</node>
+
+</launch>
